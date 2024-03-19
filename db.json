@@ -1,4 +1,8 @@
 {
-    "Correo": "usuario@example.com",
-    "Contraseña": "contraseña123"
+    "Formulario":[
+        {
+            "Usuario": "user123@gmail.com",
+            "Contraseña": "pasword123"
+        }
+    ]
 }
